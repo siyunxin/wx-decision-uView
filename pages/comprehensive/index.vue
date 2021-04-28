@@ -7,6 +7,7 @@
 			</view>
 			<view></view>
 			<view></view>
+			
 		</view>
 		<label-cell :label="'基础设施'" :showMore="false"></label-cell>
 		<view class="wrap">
